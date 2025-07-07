@@ -121,7 +121,7 @@ const AprendizajePracticoExperimental2: React.FC = () => {
                 <iframe
                   width="400"
                   height="700"
-                  src="https://www.youtube.com/embed/IRdr9livyag"
+                  src="https://www.youtube.com/embed/vYQg0CKvzRE"
                   title="Estrategia de marketing emocional"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
